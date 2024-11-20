@@ -4,9 +4,9 @@ This is a simple single-page application that displays a random fact each time t
 
 ## Project Structure
 
-- `index.html`: Provides the basic HTML structure for the app.
-- `style.css`: Adds styling for a personalized look and feel.
-- `script.js`: Contains JavaScript to handle random fact generation and user interactions.
+- index.html
+- style.css
+- script.js
 
 ## Features
 
